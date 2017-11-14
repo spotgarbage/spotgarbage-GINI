@@ -17,7 +17,8 @@ The folders 'garbage-queried-images' and 'non-garbage-queried-images' which cont
 
 The folder 'ambiguous-annotated-images' contain the images ambiguously annotated by users.
 
-If using this dataset, please cite SpotGarbage project
+If using this dataset, please cite
 
 G Mittal, K B Yagnik, M Garg, and N C Krishnan, Spot Garbage: Smartphone App to Detect Garbage Using Deep Learning, ACM International Joint Conference on Pervasive and Ubiquitous Computing, 940-945, 2016
 
+Please contact ckn@iitrpr.ac.in for queries regarding the dataset.
